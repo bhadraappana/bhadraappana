@@ -80,7 +80,7 @@ An automated  for food ordering. High performance and scalable architecture.
 - 📧 **Email:** [bhadraappana@gmail.com](mailto:bhadraappana@gmail.com)
 -    **Phone Number:** [+91-8919296192](tel:+8919296192)
 - 🌐 **Portfolio:** [MyPortfolio](https://kesavajella.github.io/Smart-Portfolio)
-- 💼 **LinkedIn:** [My_linkedin](www.linkedin.com/in/bhadra-appana-3b2813352)
+- 💼 **LinkedIn:** [My_linkedin](https://www.linkedin.com/in/bhadra-appana-3b2813352)
 
 ---
 </p>
