@@ -39,7 +39,7 @@
 A full-stack application that solves [specific problem]. Features real-time updates and secure authentication.
 **Built With:** `React` `Node.js` `MongoDB`
 
-### 2. [Canteen Food order delivery system](https://github.com/[YOUR-USERNAME]/[REPO-NAME])
+### 2. [Canteen Food order delivery system](https://canteen-l86z.onrender.com/)
 An automated  for food ordering. High performance and scalable architecture.
 **Built With:** `Python` `FastAPI` `PostgreSQL`
 
