@@ -17,10 +17,10 @@
 - **🎓 B.Tech in Information Technology** Aditya Engineering College, Surampalem (2023 – 2027)  
   **CGPA: 8.98**
 
-- **🎓 Intermediate (MPC Stream)** Narayana Junior College, Danavaipeta, Rajamundry (2021 – 2023)  
+- **🎓 Intermediate (MPC Stream)** Aditya Polytechnic College(2021 – 2024)  
   **Percentage: 93.4%**
 
-- **🎓 SSC (10th Class)** Narayana E.M High School, Kovvur (2020 – 2021)  
+- **🎓 SSC (10th Class)** Z.P.P.HighSchool,peddada (2020 – 2021)  
   **Percentage: 100%**
 
 ---
