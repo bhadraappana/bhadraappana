@@ -1,8 +1,4 @@
-Here is the Markdown code for your GitHub README, updated with your resume details while keeping the exact style, emojis, and layout from the template you provided.
 
-I updated the technologies, tech stack icons, and GitHub stats to use your name/email prefix (`bhadraappana`). Just copy everything inside the code block below and paste it into your `README.md` file.
-
-```markdown
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=,,,,,Veerabhadra+Rao+Appana" alt="Veerabhadra Rao Appana" />
 </p>
