@@ -76,7 +76,7 @@ An automated  for food ordering. High performance and scalable architecture.
 ---
 
 ## 👤 Personal Information & Links
-- 📍 **Name:** Jella Kesava Krishna Pavan
+- 📍 **Name:** Appana Veerabhadra Rao
 - 📧 **Email:** [bhadraappana@gmail.com](mailto:bhadraappana@gmail.com)
 -    **Phone Number:** [+91-8919296192](tel:+8919296192)
 - 🌐 **Portfolio:** [MyPortfolio](https://kesavajella.github.io/Smart-Portfolio)
