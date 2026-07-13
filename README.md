@@ -14,7 +14,7 @@
 
 ## 🎓 Education
 
-- **🎓 B.Tech in Information Technology** Aditya Engineering College, Surampalem (2023 – 2027)  
+- **🎓 B.Tech in Information Technology** Aditya Engineering College, Surampalem (2024 – 2027)  
   **CGPA: 8.98**
 
 - **🎓 polytechnic (CCN Stream)** Aditya Polytechnic College(2021 – 2024)  
